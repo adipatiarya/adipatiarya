@@ -8,7 +8,7 @@ My name is **Adipati Arya**, here in my github repositories you can find some re
 
 - 📙 Some notes and cheatsheets is also available for you to read in [my gist](https://gist.github.com/adipatiarya)
 
-- 📬 You can reach me by mentioning or direct message [@dimaskiddo](https://twitter.com/dimaskiddo) or just by [mail](mailto:aryaadipati2@gmail.com)
+- 📬 You can reach me by mentioning or direct message [@adipatiarya](https://twitter.com/dimaskiddo) or just by [mail](mailto:aryaadipati2@gmail.com)
 
 Let me know if you like my repositories or gist by giving it ⭐️ or support me at [Trakteer.ID](https://trakteer.id/dimaskiddo/tip), last word keep learning and sharing
 
