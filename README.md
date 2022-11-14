@@ -10,6 +10,6 @@ My name is **Adipati Arya**, here in my github repositories you can find some re
 
 - 📬 You can reach me by mentioning or direct message [@adipatiarya](https://twitter.com/dimaskiddo) or just by [mail](mailto:aryaadipati2@gmail.com)
 
-Let me know if you like my repositories or gist by giving it ⭐️ or support me at [Trakteer.ID](https://trakteer.id/dimaskiddo/tip), last word keep learning and sharing
+Let me know if you like my repositories or gist by giving it ⭐️ or support me at [Trakteer.ID](https://trakteer.id/adipati%20arya/tip), last word keep learning and sharing
 
-<a href="https://trakteer.id/dimaskiddo/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
+<a href="https://trakteer.id/adipati%20arya/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
