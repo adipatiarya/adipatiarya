@@ -4,7 +4,6 @@
 
 My name is **Adipati Arya**, here in my github repositories you can find some repositories that may be useful for the others. My repositories is mainly related with my hobby or current works as Cloud Engineer and DevOps.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipatiarya&layout=compact)
 
 - 📙 Some notes and cheatsheets is also available for you to read in [my gist](https://gist.github.com/adipatiarya)
 
